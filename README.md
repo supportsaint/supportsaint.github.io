@@ -9,7 +9,7 @@ We review and update technologies and new products, including this website.
 
 ## Built With
 
-* Love & Passsion
+* Love & Passion
 
 ## Author
 
