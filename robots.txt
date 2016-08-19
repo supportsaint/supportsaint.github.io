@@ -1,0 +1,29 @@
+# * supportsaint @supportsaint
+#
+# unbios.com • Tech Consultants • Project Managers
+#
+# *!robots.txt v1.00.00 | (c) 2015 unbios
+
+User-agent: *
+
+Disallow: /search?
+Disallow: /search/
+Disallow: /assets/
+Disallow: /css/
+Disallow: /error_html/
+Disallow: /favicons/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /mail/
+Disallow: /sbin/*
+Disallow: /social/*
+Disallow: /vid/*
+
+
+# Wait 1 second between successive requests.
+Crawl-delay: 1
+
+# Independent of user agent. Links in the sitemap are full URLs using https:// and need to match
+# the protocol of the sitemap.
+Sitemap: http://supportsaint.com/sitemap.xml
