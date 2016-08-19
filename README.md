@@ -1,11 +1,11 @@
 
 # SupportSaint (supportsaint.github.io)
 
-Supportsaint is a simple website, home of a small but passionate tech squad helping people get the best out of personal tech (iphones, ipads laptops) and smarthome tech ( routers, smart sockets, lights ...).
+Supportsaint is a simple website, home of a small but passionate tech squad helping people get the best out of personal tech (iphones, ipads, Mac & Windows laptops) and smart home tech ( routers, sockets, lights ... ).
 
 ## Constant Change
 
-We review technologies and new products, including this website.
+We review and update technologies and new products, including this website.
 
 ## Built With
 
