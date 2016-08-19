@@ -1,7 +1,7 @@
 
 # SupportSaint
 
-Supportsaint is a simple website, home of a small but passionate tech squad helping people get the best out of personal tech ( iphones, ipads, Mac & Windows laptops ) and smart home tech ( routers, sockets, lights ... ).
+Supportsaint is a simple website, home of a small passionate tech squad helping people get the best out of personal tech ( iphones, ipads, Mac & Windows laptops ) and smart home tech ( routers, sockets, lights ... ).
 
 ## Constant Change
 
