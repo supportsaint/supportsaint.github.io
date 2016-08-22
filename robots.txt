@@ -10,16 +10,12 @@ Disallow: /search?
 Disallow: /search/
 Disallow: /assets/
 Disallow: /css/
-Disallow: /error_html/
 Disallow: /favicons/
 Disallow: /fonts/
 Disallow: /img/
 Disallow: /js/
-Disallow: /mail/
-Disallow: /sbin/*
 Disallow: /social/*
 Disallow: /vid/*
-
 
 # Wait 1 second between successive requests.
 Crawl-delay: 1
