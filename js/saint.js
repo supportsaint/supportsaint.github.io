@@ -1212,6 +1212,7 @@ document.onclick = function keyClick(event) {
             case (saintfix[2] !== 138): 
             case (saintfix[2] !== 146):
                   set_css_class('anythingelse', 'display', 'block');
+                  set_css_class('anything-message', 'focus', 'focus');
                   saintfix[3] = 4;
           }
           /*saintlog();*/
@@ -1239,7 +1240,7 @@ document.onclick = function keyClick(event) {
     case (tagid === 'smartback'):set_css_class('smart', 'display', 'none');set_css_class('setupmain', 'display', 'block');saintpoint(1,0,0,0,0,0);/*saintlog();*/break
 
     case (tagid === 'setuprinter'):set_css_class('setupmain', 'display', 'none');set_css_class('makeandmodel', 'display', 'block');set_css_class('inputfield', 'focus', 'focus');saintfix[1] = 66;/*saintlog();*/break
-    case (tagid === 'setupother'):set_css_class('setupmain', 'display', 'none');set_css_class('makeandmodel', 'display', 'block');set_css_class('inputfield', 'focus', 'focus');saintfix[1] = 8;/*saintlog();*/break
+    case (tagid === 'setupother'):set_css_class('setupmain', 'display', 'none');set_css_class('makeandmodel', 'display', 'block');set_css_class('inputfield', 'focus', 'focus');saintfix[1] = 61;/* saintfix[1] = 8; saintlog();*/break
 
 /* help with device */
 
