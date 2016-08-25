@@ -3157,7 +3157,7 @@ section header p {
 }
 
 div.home {
-    background-color: rgba(40, 40, 40, .5);
+    background-color: rgba(40, 40, 40, .55);
     background-size: cover;
     padding-bottom: 11em
 }
