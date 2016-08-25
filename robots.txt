@@ -6,14 +6,10 @@
 
 User-agent: *
 
-Disallow: /search?
-Disallow: /search/
 Disallow: /assets/
-Disallow: /css/
 Disallow: /favicons/
 Disallow: /fonts/
 Disallow: /img/
-Disallow: /js/
 Disallow: /social/*
 Disallow: /vid/*
 
