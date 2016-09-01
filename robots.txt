@@ -10,6 +10,7 @@ Disallow: /assets/
 Disallow: /favicons/
 Disallow: /fonts/
 Disallow: /img/
+Disallow: /invoice/*
 Disallow: /social/*
 Disallow: /vid/*
 

@@ -1101,6 +1101,16 @@ document.onclick = function keyClick(event) {
          scrollTo(0, 700);
    break;
 
+   case (tagclass === 'invonav'):
+   
+        if(istimezone() === 'Europe/London') {
+           window.location.href = "/invoice/";
+        } else {
+           window.location.href = "/";
+        }
+
+   break;
+
    case (tagclass === 'joinnav'):
          navtoggle();
    case (tagclass === 'joinfooter'):
