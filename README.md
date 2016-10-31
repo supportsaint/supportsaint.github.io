@@ -13,4 +13,4 @@ We review and update technologies and new products, including this website.
 
 ## Author
 
-* Mr Glyn Thomas (http://mrglynthomas.com)
+* Mr Insert Name
