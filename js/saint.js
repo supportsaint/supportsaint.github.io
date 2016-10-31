@@ -4435,8 +4435,8 @@ function callmobile(ring) {
  
   if (ring === 'yes') {
 
-      set_html_id('contactmsg', '077 4570 4570');
-      if (isplatform.Android() || isplatform.BlackBerry() || isplatform.iPhone()) {set_html_id('contactnav', '<a href="tel:07745704570">077 4570 4570</a>');} else {set_html_id('contactnav', '077 4570 4570');}
+      set_html_id('contactmsg', 'insert tel');
+      if (isplatform.Android() || isplatform.BlackBerry() || isplatform.iPhone()) {set_html_id('contactnav', '<a href="tel:inset tel">inset tel</a>');} else {set_html_id('contactnav', 'insert tel');}
 
   } else {
      
